@@ -1,13 +1,14 @@
-#### Olá, eu sou Aliane Amaral!
+<h4> Olá, eu sou Aliane Amaral! 🤍 Seja bem vindo(a) ao meu perfil! 👋🏻 </h4>
+<h5>🌱 Eu sou uma Aprendiz de Desenvolvimento Back-End! </h5>
 
-<h5> 👩🏻‍💻🌱 Aprendiz Desenvolvimento Back-End </h5> <br>
+<h6> 💫 Meus Interesses: #games, #desenvolvimentoweb, #ilustraçãodigital e #tecnologia </h6>
 
-##
+## 📚 Meu GitHub Stats: 
 
  <div>
   <a href="[https://github.com/rafaballerini](https://github.com/AlianeAmaral)">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 ##
@@ -18,10 +19,12 @@
 </div>
   
 ##
- 
+
+## 🌐 Minhas Redes Sociais: <br>
+
+
 <div>  
   <a href="https://www.twitch.tv/ladyecat" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
- [![](https://visitcount.itsvg.in/api?id=AlianeAmaral&icon=5&color=4)](https://visitcount.itsvg.in)
