@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
- <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Game.gif" width="400">
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
