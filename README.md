@@ -3,8 +3,6 @@
 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
 
-// 📚 GitHub Stats: 
-
 ##
  
 <div align="center" style="display: inline_block">
