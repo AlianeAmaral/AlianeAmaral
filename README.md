@@ -3,9 +3,7 @@
 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
 
-## 📚 GitHub Stats: 
-
-[![AlianeAmaral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlianeAmaral)](https://github.com/AlianeAmaral/github-readme-stats)
+// 📚 GitHub Stats: 
 
 ##
  
