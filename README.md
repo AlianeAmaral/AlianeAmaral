@@ -1,7 +1,11 @@
 <h3> Olá, eu sou Aliane Amaral! 🤍 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>
 <h4>🌱 Eu sou uma Aprendiz de Desenvolvimento Back-End e Front-End! </h4>
 
-<h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
+<h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
+
+<div> 
+  <img align="center" alt="Ally-Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlianeAmaral&theme=dark"/>
+</div>
 
 ##
  
