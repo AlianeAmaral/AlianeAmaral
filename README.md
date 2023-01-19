@@ -3,10 +3,6 @@
 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
 
-<div> 
-  <img align="center" alt="Ally-Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlianeAmaral&theme=dark"/>
-</div>
-
 ##
  
 <div align="center" style="display: inline_block">
