@@ -2,8 +2,6 @@
 <h4>🌱 Eu sou uma Aprendiz de Desenvolvimento Back-End e Front-End! </h4>
 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
-
-##
  
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
