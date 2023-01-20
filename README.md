@@ -11,7 +11,7 @@
   
 ##
 
-<h3> 🌐 Redes Sociais: <br></h3><br>
+<h3> 🌐 Redes Sociais: <br></h3>
 
 <div> 
 
