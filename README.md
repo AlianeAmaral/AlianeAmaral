@@ -2,6 +2,12 @@
 <h4>🌱 Eu sou uma Aprendiz de Desenvolvimento Back-End e Front-End! </h4>
 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
+
+<div>
+  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=dark"/>
+</div>
  
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
