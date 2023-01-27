@@ -4,7 +4,7 @@
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
 
 <div>
-  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)">
+  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=merko"/>
 </div>
