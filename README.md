@@ -29,4 +29,3 @@
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
- 
