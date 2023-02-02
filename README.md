@@ -1,5 +1,5 @@
 <h3> Olá, eu sou Aliane Amaral! 🤍 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>
-<h4>🌱 Aprimorando meus conhecimentos para o Desenvolvimento Web. </h4> 
+<h4>🌱 Aprimoro a cada dia os meus conhecimentos para o Desenvolvimento Web. </h4> 
  
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
 
