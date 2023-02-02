@@ -1,6 +1,6 @@
 <h3> Olá, eu sou Aliane Amaral! 🤍 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>
 <h4>🌱 Eu sou Aprendiz de Desenvolvimento Back-End e Front-End! </h4> 
-
+ 
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
 
 <div>
