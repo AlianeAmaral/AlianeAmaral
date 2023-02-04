@@ -2,7 +2,7 @@
 <h4>🌱 Em constante aprendizado pela Tecnologia e o Desenvolvimento Web. </h4> 
  
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6><br>
-
+ 
 <div>
   <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
