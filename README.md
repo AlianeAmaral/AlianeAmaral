@@ -21,12 +21,12 @@
 
 <h3> 🌐 Redes Sociais: <br></h3>
 
-<div> 
+<div>  
 
-  <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-
- 🤍 Se inscreva no meu canal de músicas no Youtube e apoie o projeto: <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 🤍 Se inscreva no meu canal de músicas no Youtube e apoie o projeto: <br>
+ 
+   <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
 
