@@ -23,7 +23,7 @@
 
 <div>  
 
- 🤍 Se inscreva no meu canal de músicas no Youtube e apoie o projeto: <br>
+ 🤍 Se inscreva no meu Canal de Músicas no Youtube e apoie o meu projeto: <br>
  
    <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
