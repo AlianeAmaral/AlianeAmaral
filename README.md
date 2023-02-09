@@ -23,7 +23,7 @@
 
 <div>  
 
- 🤍 Se inscreva no meu Canal de Músicas no Youtube e apoie meu projeto a chegar nos 1.000 inscritos: 
+ 🤍 Se inscreva no meu Canal de Músicas no Youtube e apoie meu projeto a chegar nos 1.000 inscritos: <br>
  🤍 <i> Subscribe to my Music Channel on Youtube and support my project to reach 1,000 subscribers: <br></i>
  
    <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
