@@ -11,11 +11,6 @@
 
  🤍 Se inscreva nos meus Canais do Youtube e apoie meu projeto a chegar nos 500 inscritos: <br>
  🤍 <i> Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers: <br></i>
-
-🌺 Channel 1: https://www.youtube.com/@alianeamaral
-🌺 Channel 2: https://www.youtube.com/@lofi_sleep
-
-<i>Thank you!</i> 🤍 
  
    <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
