@@ -40,5 +40,10 @@
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+
+##
+   
+![image title](https://rushter.com/counter.svg)
+[![HitCount](https://hits.dwyl.com/{AlianeAmaral}/{project-name}.svg)](https://hits.dwyl.com/{AlianeAmaral}/{project-name})
  
  
