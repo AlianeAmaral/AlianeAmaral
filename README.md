@@ -42,6 +42,5 @@
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 ##
-   
-![Visitor Count](https://profile-counter.glitch.me/AmaNDSG/count.svg)
+  
  
