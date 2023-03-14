@@ -43,7 +43,5 @@
 
 ##
    
-![image title](https://rushter.com/counter.svg)
-[![HitCount](https://hits.dwyl.com/{AlianeAmaral}/{project-name}.svg)](https://hits.dwyl.com/{AlianeAmaral}/{project-name})
- 
+![Visitor Count](https://profile-counter.glitch.me/AmaNDSG/count.svg)
  
