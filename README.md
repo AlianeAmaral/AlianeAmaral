@@ -1,6 +1,6 @@
 <h3> Olá, eu sou Aliane Amaral! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3> 
 <h4></h4>  
-    
+     
 <h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
   
 ##
@@ -35,7 +35,7 @@
   <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
- 
+    
 ## 
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
