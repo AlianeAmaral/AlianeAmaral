@@ -1,5 +1,3 @@
-TESTE
-
 <h3> Olá, seja bem vindo(a) ao meu perfil GitHub. </h3>  
 <h4></h4>   
 
