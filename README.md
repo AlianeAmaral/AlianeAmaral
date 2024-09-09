@@ -1,6 +1,8 @@
 <h3> Olá, seja bem vindo(a) ao meu perfil GitHub. </h3>  
 <h4></h4>   
 
+🚧 Em fase de atualizações nesse momento. Aplicando melhorias aos repositórios.
+
 ## 
   
 <h3> 🌐 Redes Sociais: <br></h3> 
