@@ -1,7 +1,7 @@
 <h3> Olá, seja bem vindo(a) ao meu perfil GitHub. </h3>  
 <h4></h4>   
 
-🚧 Em fase de atualizações nesse momento. Aplicando melhorias aos repositórios.
+🚧 Em fase de atualizações nesse momento. Aplicando melhorias de código e organização aos repositórios.
 
 ## 
   
