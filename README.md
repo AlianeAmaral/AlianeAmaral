@@ -3,9 +3,9 @@
 
 <b>👾 Gostaria de saber no que estou trabalhando atualmente?</b>
 
->Estou desenvolvendo exercícios em React e Next.js, e faço ADS na PUC. <br/>
-Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve. <br/>
-Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java. <br/>
+>_Estou desenvolvendo exercícios em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
+_Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
+_Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java._ <br/>
 
 <b>💜 Minhas contribuições:</b>
 
