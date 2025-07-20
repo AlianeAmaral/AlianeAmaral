@@ -5,7 +5,7 @@
 
 >Estou desenvolvendo exercícios em React e Next.js, e faço ADS na PUC. <br/>
 Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve. <br/>
-Embora esteja me dedicando aos estudos de front-end e frameworks hoje, também possuo conhecimentos de back-end em C# e Java. <br/>
+Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java. <br/>
 
 ## 
   
