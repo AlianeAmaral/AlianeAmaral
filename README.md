@@ -8,6 +8,8 @@ Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar 
 Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java. <br/>
 
 ## 
+
+![snake gif](https://github.com/AlianeAmaral/AlianeAmaral/blob/output/github-contribution-grid-snake.svg)
   
 <h3> 🌐 Redes Sociais: <br></h3> 
 
