@@ -1,7 +1,7 @@
 <h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally! 🪻 </h3>  
 <h4></h4>   
 
-<b>👾 Gostaria de saber no que estou trabalhando atualmente?</b>
+<b>👾 No que estou trabalhando atualmente?</b>
 
 >_Estou desenvolvendo exercícios em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
