@@ -9,7 +9,11 @@ Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo
 
 ## 
 
-![snake gif](https://github.com/AlianeAmaral/AlianeAmaral/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
+</picture>
   
 <h3> 🌐 Redes Sociais: <br></h3> 
 
