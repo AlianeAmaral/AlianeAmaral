@@ -1,7 +1,11 @@
-<h3> Olá, seja bem vindo(a) ao meu perfil GitHub. </h3>  
+<h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally! 🪻 </h3>  
 <h4></h4>   
 
-🚧 Em fase de atualizações nesse momento. Aplicando melhores organizações aos repositórios.
+<b>👾 Gostaria de saber no que estou trabalhando atualmente?</b>
+
+>Estou desenvolvendo exercícios em React e Next.js, e faço ADS na PUC. <br/>
+Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve. <br/>
+Embora esteja me dedicando aos estudos de front-end e frameworks hoje, também possuo conhecimentos de back-end em C# e Java. <br/>
 
 ## 
   
