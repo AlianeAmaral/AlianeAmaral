@@ -73,8 +73,6 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
    <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-![](https://komarev.com/ghpvc/?username=AlianeAmaral)
-
 ## 
 
  <i> A magical universe can be born from small ideas! </i>⭐️ <br> <br>
