@@ -66,12 +66,11 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
  
 💜 Se inscreva nos meu Canal do Youtube e apoie meu projeto a chegar nos 500 inscritos:<br/>
 💜 <i>Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers:</i>
-
  <div>
    <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-800080?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><br>
+</div>
 
 ## 
 
