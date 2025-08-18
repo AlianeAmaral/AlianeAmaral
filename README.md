@@ -1,4 +1,4 @@
-<h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally! 🪻 </h3>  
+<h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally!</h3>  
 <h4></h4>   
 
 <b>👾 No que estou trabalhando atualmente?</b>
