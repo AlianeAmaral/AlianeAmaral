@@ -27,13 +27,13 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 ##
 
-<b>✔️ Contributions: </b>
+<b>🍂 Contributions: </b>
 
 <table>
   <tr>
-    <td width="60%" align="center"><br>
+    <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br>
-      <img width="270" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
+      <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
@@ -42,8 +42,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img  src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=cobalt"/>
       </div><br>
           <div>
 <b>🪄 Stacks <br><br>
@@ -82,12 +81,12 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 <b>🌐 Redes Sociais: </b>
  
-> 💜 Se inscreva nos meu Canal do Youtube e apoie meu projeto a chegar nos 500 inscritos:<br/>
-> 💜 Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers:
+> 🤍 Se inscreva nos meu Canal do Youtube e apoie meu projeto a chegar nos 500 inscritos:<br/>
+> 🤍 Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers:
  <div>
-   <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-800080?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 
