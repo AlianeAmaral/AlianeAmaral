@@ -33,7 +33,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
   <tr>
     <td width="60%" align="center"><br>
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br>
-      <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/stardew-purple.gif"">
+      <img width="270" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
