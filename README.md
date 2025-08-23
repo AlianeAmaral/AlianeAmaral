@@ -11,8 +11,6 @@
 
 <b>No que estou trabalhando atualmente? 🍂 </b>
 
-##
-
 >_Estou desenvolvendo atualmente em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
 _Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java._ <br/>
@@ -32,7 +30,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 <table>
   <tr>
     <td width="60%" align="center">
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br>
+  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
       <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
