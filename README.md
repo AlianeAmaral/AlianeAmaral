@@ -1,7 +1,14 @@
+<div>
+    <width="100%" align="center"><br>
+    <img width="500" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-5.jpeg">
+</div></br>
+
+๋ ࣭ ⭑๋ ࣭ ⭑ 
+
 <h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally.</h3>  
 <h4></h4>   
 
-<b>👾 No que estou trabalhando atualmente?</b>
+<b>No que estou trabalhando atualmente? 🍂 </b>
 
 >_Estou desenvolvendo atualmente em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
@@ -55,7 +62,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/zmel.gif">
+      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-11.jpg">
     </td>
   </tr>
 </table>
