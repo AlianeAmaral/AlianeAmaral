@@ -1,6 +1,7 @@
 <div>
-    <width="100%" align="center"><br>
+    <width="80%"><br>
     <img width="500" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-5.jpeg">
+<img width="500" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-5.jpeg">
 </div></br>
 
 ๋ ࣭ ⭑๋ ࣭ ⭑ 
