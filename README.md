@@ -4,15 +4,26 @@
 </div></br>
 
 ๋ ࣭ ⭑๋ ࣭ ⭑ 
+<table width="100%">
 
+<div width="30%">    
 <h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally.</h3>  
-<h4></h4>   
 
 <b>No que estou trabalhando atualmente? 🍂 </b>
+
+##
 
 >_Estou desenvolvendo atualmente em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
 _Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java._ <br/>
+
+</div>
+
+<div>
+    <width="50%"><br>
+    <img width="200" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/praia-1.gif">
+</div></br>
+</div> 
 
 ##
 
@@ -31,8 +42,8 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+        <img  src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
       </div><br>
           <div>
 <b>🪄 Stacks <br><br>
