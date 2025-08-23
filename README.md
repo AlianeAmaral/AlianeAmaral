@@ -21,7 +21,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 <div>
     <width="50%"><br>
-    <img width="200" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/praia-1.gif">
+    <img width="300" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/praia-1.gif">
 </div></br>
 </div> 
 
