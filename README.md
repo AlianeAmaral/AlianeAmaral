@@ -13,7 +13,7 @@
 
 >_Estou desenvolvendo atualmente em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo iniciar a construção de projetos para o meu portfólio e reorganizar os meus repositórios em breve._ <br/>
-_Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em C# e Java._ <br/>
+_Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em Java._ <br/>
 
 </div>
 
@@ -46,7 +46,6 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 <b>🪄 Stacks <br><br>
 
 <div align="center">
-  <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
