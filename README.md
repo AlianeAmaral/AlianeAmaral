@@ -4,7 +4,7 @@
 </div></br>
 
 ๋ ࣭ ⭑๋ ࣭ ⭑ 
-<table width="100%">
+<table width="100%"> 
 
 <div width="30%">    
 <h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally.</h3>  
