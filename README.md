@@ -1,6 +1,6 @@
 <div>
     <width="80%"><br>
-    <img width="900" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/background-purple-flowers.png">
+    <img width="70" align="left" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/icon-github.png"> <br><br>
 </div></br>
 
 <table width="100%"> 
@@ -88,7 +88,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 ## 
 
- <i> A magical universe can be born from small ideas! </i>⭐️ <br> <br>
+ <i> A magical universe can be born from small ideas. <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 ##
