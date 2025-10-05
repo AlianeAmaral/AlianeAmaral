@@ -1,3 +1,8 @@
+<div>
+    <width="80%"><br>
+    <img width="900" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/background-purple-flowers.png">
+</div></br>
+
 <table width="100%"> 
 
 <div width="30%">    
