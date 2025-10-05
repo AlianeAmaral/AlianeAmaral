@@ -16,12 +16,6 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 </div>
 
-<div>
-    <width="50%"><br>
-    <img width="300" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/praia-1.gif">
-</div></br>
-</div> 
-
 ##
 
 <b>🍂 Contributions: </b>
