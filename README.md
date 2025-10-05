@@ -28,7 +28,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br/>
       <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
@@ -39,8 +39,8 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <br>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
       </div><br>
           <div>
 <b>👾 Stacks <br><br>
