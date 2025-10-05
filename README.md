@@ -1,8 +1,3 @@
-<div>
-    <width="80%"><br>
-    <img width="900" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-15.jpeg">
-</div></br>
-
 <table width="100%"> 
 
 <div width="30%">    
@@ -24,12 +19,12 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 ##
 
-<b>🍂 Contributions: </b>
+<b>✔️ Contributions: </b>
 
 <table>
   <tr>
     <td width="60%" align="center">
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
+  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br/>
       <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
@@ -39,10 +34,11 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=cobalt"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
       </div><br>
           <div>
-<b>🪄 Stacks <br><br>
+<b>👾 Stacks <br><br>
 
 <div align="center">
   <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -68,7 +64,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-11.jpg">
+      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/zmel.gif">
     </td>
   </tr>
 </table>
