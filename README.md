@@ -68,7 +68,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
   <img align="center" alt="linux" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div><br>
     </td>
-    <td width="40%">
+    <td width="100%">
       <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/zmel.gif">
     </td>
   </tr>
