@@ -28,7 +28,7 @@ _Embora esteja me dedicando aos estudos de front-end e frameworks, também possu
 
 <table>
   <tr>
-    <td width="35%" align="center">
+    <td width="30%" align="center">
     <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/stardew-purple.gif""> <br>
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br><br>
       <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
