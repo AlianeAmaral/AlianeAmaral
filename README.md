@@ -10,7 +10,7 @@
 
 <b>No que estou trabalhando atualmente? 🍂 </b>
 
->_Estou desenvolvendo atualmente em React, Next.js e Typescript, e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
+>_Estou desenvolvendo atualmente em React e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
 _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios em breve._ <br/>
 _Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em Java e C#._ <br/>
 
