@@ -10,7 +10,7 @@
 
 <b>No que estou trabalhando atualmente? 🍂 </b>
 
->_Estou realizando um curso sobre Computação em Nuvem AWS e faço faculdade de Análise e Desenvolvimento de Sistemas na PUC Minas._ <br/>
+>_Estou realizando curso sobre Computação em Nuvem AWS e faço faculdade de Análise e Desenvolvimento de Sistemas na PUC Minas._ <br/>
 _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve._ <br/>
 _Minhas principais habilidades são: Java, React, HTML, CSS, Javascript, MySQL, SQL Server, Git e Versionamento._ <br/>
 
