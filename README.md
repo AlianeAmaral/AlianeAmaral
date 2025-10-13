@@ -10,9 +10,9 @@
 
 <b>No que estou trabalhando atualmente? 🍂 </b>
 
->_Estou desenvolvendo atualmente em React e curso Análise e Desenvolvimento de Sistemas na PUC._ <br/>
-_Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios em breve._ <br/>
-_Embora esteja me dedicando aos estudos de front-end e frameworks, também possuo conhecimentos de back-end em Java e C#._ <br/>
+>_Estou realizando um curso sobre Computação em Nuvem AWS e faço faculdade de Análise e Desenvolvimento de Sistemas na PUC Minas._ <br/>
+_Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve._ <br/>
+_Minhas principais habilidades são: Java, React, HTML, CSS, Javascript, MySQL, SQL Server, Git e Versionamento. <br/>
 
 </div>
 
