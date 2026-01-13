@@ -12,7 +12,7 @@
 
 >_Estou realizando curso sobre Computação em Nuvem AWS e faço faculdade de Análise e Desenvolvimento de Sistemas._ <br/>
 _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve._ <br/>
-_Minhas principais habilidades são: Java, React, HTML, CSS, Javascript, Typescript, MySQL, SQL Server._ <br/>
+_Minhas principais habilidades tech são: C#, Java, React, HTML, CSS, Javascript, Typescript, MySQL, SQL Server._ <br/>
 
 </div>
 
