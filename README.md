@@ -1,29 +1,13 @@
-<div>
-    <width="80%"><br>
-    <img width="70" align="left" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/icon-github.png"> <br><br>
-</div></br>
+<h3> Olá, eu sou a ally.</h3>
 
-<table width="100%"> 
- 
-<div width="30%">    
-<h3> Olá, seja-vindo(a) ao meu perfil, eu sou a ally.</h3>  
-
-<b>No que estou trabalhando atualmente? 🍂 </b>
-
->_Estou realizando curso sobre Computação em Nuvem AWS e faço faculdade de Análise e Desenvolvimento de Sistemas._ <br/>
-_Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve._ <br/>
-
-</div>
-
-##
-
-<b>🍂 Contributions: </b>
+<b>✔️ Contributions: </b>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br><br>
-      <img width="230" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
+    <td width="60%" align="center"><br>
+  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br><br>
+      <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/stardew-purple.gif">
+        <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/espada-2.jpeg">
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
@@ -32,13 +16,14 @@ _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus 
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <br> <br>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
       </div><br>
           <div>
-<b>👾 Stacks <br><br>
+<b>🪄 Stacks <br><br>
 
 <div align="center">
+  <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -62,7 +47,7 @@ _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus 
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-11.jpg">
+      <img width="100%" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/zmel.gif">
     </td>
   </tr>
 </table>
@@ -71,17 +56,17 @@ _Pretendo retomar a construção dos projetos de portfólio e atualizar os meus 
 
 <b>🌐 Redes Sociais: </b>
  
-> 🤍 Se inscreva nos meu Canal do Youtube e apoie meu projeto a chegar nos 500 inscritos:<br/>
-> 🤍 Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers:
+> 💜 Se inscreva nos meu Canal do Youtube e apoie meu projeto a chegar nos 500 inscritos:<br/>
+> 💜 Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers:
  <div>
-   <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-800080?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alianeamaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 
 
- <i> A magical universe can be born from small ideas. <br> <br>
+ <i> A magical universe can be born from small ideas! </i>⭐️ <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 ##
