@@ -14,12 +14,6 @@
         <img width="100%" alt="github contribution grid snake animation"
              src="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
       </picture><br><br>
-      <div align="center">
-        <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
-      </div><br>
-          <div>
 <b>🪄 Stacks <br><br>
 
 <div align="center">
